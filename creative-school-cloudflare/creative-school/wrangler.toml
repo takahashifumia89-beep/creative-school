@@ -1,4 +1,4 @@
-name = "creative-school"
+name = "creative-school-hub"
 main = "worker/index.ts"
 compatibility_date = "2025-09-01"
 
